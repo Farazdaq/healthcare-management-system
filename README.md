@@ -59,7 +59,7 @@ A modern, production-grade healthcare platform designed to manage patients, doct
 
 # Overview
 
-Healthcare Nexus Platform is a **scalable, distributed healthcare management system** designed to digitalize hospital operations.
+Healthcare HMS Platform is a **scalable, distributed healthcare management system** designed to digitalize hospital operations.
 
 It enables:
 - Patient lifecycle management
